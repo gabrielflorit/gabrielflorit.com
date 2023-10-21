@@ -1,0 +1,46 @@
+.h-100vh,
+._h-100vh > * {
+  height: 100vh;
+}
+
+._m-0 > * {
+  margin: 0;
+}
+
+._p-0 > * {
+  padding: 0;
+}
+
+.w-21 {
+  width: 21rem;
+}
+
+._w-100 > * {
+  width: 100%;
+}
+
+.b-sr1,
+._b-sr1 > * {
+  border: solid red 1px;
+}
+
+.dot {
+  position: sticky;
+  top: 33%;
+}
+
+.text-r {
+  text-align: right;
+}
+
+.relative {
+  position: relative;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.mt--2 {
+  margin-top: -2rem;
+}
